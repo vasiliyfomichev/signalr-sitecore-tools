@@ -14,6 +14,15 @@ All SignalR tools provide live updates every second eliminating the need for cli
 
 As the project grows, more tools will be added.
 
+How to Deploy Sitecore SignalR Tools?
+-----------------------------------------
+Publish the project directly into the \Website folder and copy the SitecoreSignalRTools.config into \Website\App_Config\Include.
+
+How to Access Sitecore SignalR Tools
+---------------------------------------
+All tools get published into \Website\sitecore\admin folder and can be accessed by navigating to -
+- \Website\sitecore\admin\cache.html
+- \Website\sitecore\admin\jobs.html
 
 Contributing
 ----------------------
