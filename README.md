@@ -1,7 +1,7 @@
 What are SignalR Sitecore Tools?
 ===================================
 
-Sitecore provides a set of very useful tools in \Website\sitecore\admin folder. This project upgrades a set of these tools by providing live updates using SignalR technology and a more friendly SPEAK-like styled user interface. 
+Sitecore provides a set of very useful tools in \Website\sitecore\admin folder. This project upgrades a set of these tools by providing live updates using SignalR technology and a more friendly modern user interface. 
 
 ![Sitecore SignalR Tools](http://www.cmsbestpractices.com/wp-content/uploads/2015/07/sitecore-signalr-tools-logo.png)
 
