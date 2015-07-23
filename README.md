@@ -14,28 +14,35 @@ All SignalR tools provide live updates every second eliminating the need for cli
 
 As the project grows, more tools will be added.
 
+
 How to Deploy Sitecore SignalR Tools?
 -----------------------------------------
 Publish the project directly into the \Website folder and copy the SitecoreSignalRTools.config into \Website\App_Config\Include.
+
 
 How to Access Sitecore SignalR Tools
 ---------------------------------------
 All tools get published into \Website\sitecore\admin folder and can be accessed by navigating to -
 - \Website\sitecore\admin\cache.html
 - \Website\sitecore\admin\jobs.html
+- 
 
 Contributing
 ----------------------
 If you have have a contribution for this repository, please send a pull request.
 
+
 License
 ------------
 The project has been developed under the MIT license.
+
 
 Related Sitecore Projects
 --------------------------------
 - [Solr for Sitecore](https://github.com/vasiliyfomichev/solr-for-sitecore)
 - [Sitecore ADFS Authenticator Module](https://github.com/vasiliyfomichev/Sitecore-ADFS-Authenticator-Module)
 - [Sitecore Lucene Term Highlighter](https://github.com/vasiliyfomichev/Sitecore-Solr-Search-Term-Highlight)
+
+
 
 Copyright 2015 Vasiliy Fomichev
