@@ -39,9 +39,9 @@ The project has been developed under the MIT license.
 
 Related Sitecore Projects
 --------------------------------
-- [Solr for Sitecore](https://github.com/vasiliyfomichev/solr-for-sitecore)
-- [Sitecore ADFS Authenticator Module](https://github.com/vasiliyfomichev/Sitecore-ADFS-Authenticator-Module)
-- [Sitecore Lucene Term Highlighter](https://github.com/vasiliyfomichev/Sitecore-Solr-Search-Term-Highlight)
+- [Solr for Sitecore](https://github.com/vasiliyfomichev/solr-for-sitecore) - pre-built Solr Docker images ready to be used with Sitecore out of the box.
+- [Sitecore ADFS Authenticator Module](https://github.com/vasiliyfomichev/Sitecore-ADFS-Authenticator-Module) - Sitecore module for authenticating users using ADFS.
+- [Sitecore Lucene Term Highlighter](https://github.com/vasiliyfomichev/Sitecore-Solr-Search-Term-Highlight) - enables search term highlighting in Sitecore search results when used with Lucene.
 
 
 
