@@ -23,9 +23,9 @@ Publish the project directly into the \Website folder and copy the SitecoreSigna
 How to Access Sitecore SignalR Tools
 ---------------------------------------
 All tools get published into \Website\sitecore\admin folder and can be accessed by navigating to -
-- \Website\sitecore\admin\cache.html
-- \Website\sitecore\admin\jobs.html
-- 
+- /Website/sitecore/admin/cache.html
+- /Website/sitecore/admin/jobs.html
+
 
 Contributing
 ----------------------
