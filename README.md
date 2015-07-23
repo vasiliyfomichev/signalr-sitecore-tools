@@ -1,12 +1,19 @@
-SignalR Sitecore Tools
-================
+What are SignalR Sitecore Tools?
+===================================
 
-Sitecore provides a set of very useful tools in \Website\sitecore\admin folder. This project includes the following tools rebuild using SignalR technology:
+Sitecore provides a set of very useful tools in \Website\sitecore\admin folder. This project upgrades a set of these tools by providing live updates using SignalR technology and a more friendly SPEAK-like styled user interface. 
 
-- cache.html
-- jobs.html
+![Sitecore SignalR Tools](http://www.cmsbestpractices.com/wp-content/uploads/2015/07/sitecore-signalr-tools-logo.png)
 
-All SignalR tools provide live updates every second eliminating the need for clicking the refresh button to see updates. As the project grows, more tools will be added.
+The following tools are included in the package:
+
+- cache.html - a cache.aspx and a [Cache Tuner Module](https://marketplace.sitecore.net/en/Modules/Cache_Tuner.aspx) combined in one. 
+- jobs.html - SignalR implementation of jobs.aspx displaying a list of currently running and finished jobs 
+
+All SignalR tools provide live updates every second eliminating the need for clicking the refresh button to see updates. The SignalR tools, just like their original implementations, require administrator-level access.
+
+As the project grows, more tools will be added.
+
 
 Contributing
 ----------------------
@@ -15,5 +22,11 @@ If you have have a contribution for this repository, please send a pull request.
 License
 ------------
 The project has been developed under the MIT license.
+
+Related Sitecore Projects
+--------------------------------
+- [Solr for Sitecore](https://github.com/vasiliyfomichev/solr-for-sitecore)
+- [Sitecore ADFS Authenticator Module](https://github.com/vasiliyfomichev/Sitecore-ADFS-Authenticator-Module)
+- [Sitecore Lucene Term Highlighter](https://github.com/vasiliyfomichev/Sitecore-Solr-Search-Term-Highlight)
 
 Copyright 2015 Vasiliy Fomichev
