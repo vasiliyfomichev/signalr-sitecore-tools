@@ -29,7 +29,7 @@ All tools get published into \Website\sitecore\admin folder and can be accessed 
 
 Contributing
 ----------------------
-If you have have a contribution for this repository, please send a pull request.
+If you would like to contribute to this repository, please send a pull request.
 
 
 License
